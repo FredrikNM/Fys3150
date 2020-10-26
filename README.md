@@ -12,3 +12,5 @@ see some plants which we dont see here, Neptune and Uranus.
 <p align="center">
   <img src="Solar_sys.gif">
 </p>
+
+[3d Python simulation](https://github.com/endrias34/FYS4150/blob/master/src/Project-3/3d_simulation.zip)
