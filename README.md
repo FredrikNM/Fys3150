@@ -3,5 +3,6 @@ Projects done in the course called Computational Physics
 
 [Link to projects](https://github.com/endrias34/FYS4150/)
 
-
-![]("Solar.gif")
+<p align="center">
+  <img src="Solar.gif">
+</p>
