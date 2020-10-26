@@ -14,3 +14,8 @@ see some plants which we dont see here, Neptune and Uranus, and simulate it for 
 </p>
 
 [3d Python simulation](https://github.com/endrias34/FYS4150/blob/master/src/Project-3/3d_simulation.zip)
+
+
+<p align="center">
+  <img src="test.png">
+</p>
