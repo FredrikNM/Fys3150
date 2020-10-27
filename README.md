@@ -11,7 +11,7 @@ planets which we dont see here, Neptune and Uranus, and simulate it for a longer
   <img src="Solar_system.gif">
 </p>
 
-[3d Python simulation](https://github.com/endrias34/FYS4150/blob/master/src/Project-3/3D_Animation.zip)
+[3D Python simulation](https://github.com/endrias34/FYS4150/blob/master/src/Project-3/3D_Animation.zip)
 
 
 <p align="center">
