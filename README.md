@@ -7,6 +7,7 @@ Projects done in the course Computational Physics
 If you are familiar with python there is a link below so you can download the code for  
 the animation, and drag the picture around in different angles. You could then see some  
 planets which we dont see here, Neptune and Uranus, and simulate it for a longer period.  
+At the bottom it is also a "zoomed" in version.  
 <p align="center">
   <img src="Solar_system.gif">
 </p>
@@ -17,3 +18,10 @@ planets which we dont see here, Neptune and Uranus, and simulate it for a longer
 <p align="center">
   <img src="description.png">
 </p>
+
+
+
+<p align="center">
+  <img src="Solar_closer.gif">
+</p>
+
